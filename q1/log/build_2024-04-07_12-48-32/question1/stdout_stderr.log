@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/question1/question1.egg-info
+writing ../../build/question1/question1.egg-info/PKG-INFO
+writing dependency_links to ../../build/question1/question1.egg-info/dependency_links.txt
+writing entry points to ../../build/question1/question1.egg-info/entry_points.txt
+writing requirements to ../../build/question1/question1.egg-info/requires.txt
+writing top-level names to ../../build/question1/question1.egg-info/top_level.txt
+writing manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+reading manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/archit/q1/build/question1/build
+creating /home/archit/q1/build/question1/build/lib
+creating /home/archit/q1/build/question1/build/lib/question1
+copying question1/__init__.py -> /home/archit/q1/build/question1/build/lib/question1
+running install
+running install_lib
+creating /home/archit/q1/install/question1/lib/python3.10/site-packages/question1
+copying /home/archit/q1/build/question1/build/lib/question1/__init__.py -> /home/archit/q1/install/question1/lib/python3.10/site-packages/question1
+byte-compiling /home/archit/q1/install/question1/lib/python3.10/site-packages/question1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/archit/q1/install/question1/share/ament_index
+creating /home/archit/q1/install/question1/share/ament_index/resource_index
+creating /home/archit/q1/install/question1/share/ament_index/resource_index/packages
+copying resource/question1 -> /home/archit/q1/install/question1/share/ament_index/resource_index/packages
+copying package.xml -> /home/archit/q1/install/question1/share/question1
+running install_egg_info
+Copying ../../build/question1/question1.egg-info to /home/archit/q1/install/question1/lib/python3.10/site-packages/question1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/archit/q1/build/question1/install.log'

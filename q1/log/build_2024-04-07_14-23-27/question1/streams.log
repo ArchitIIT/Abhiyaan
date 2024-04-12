@@ -1,0 +1,25 @@
+[0.461s] Invoking command in '/home/archit/q1/src/question1': PYTHONPATH=/home/archit/q1/build/question1/prefix_override:/home/archit/q1/install/question1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/question1 build --build-base /home/archit/q1/build/question1/build install --record /home/archit/q1/build/question1/install.log --single-version-externally-managed install_data
+[0.646s] running egg_info
+[0.646s] writing ../../build/question1/question1.egg-info/PKG-INFO
+[0.647s] writing dependency_links to ../../build/question1/question1.egg-info/dependency_links.txt
+[0.647s] writing entry points to ../../build/question1/question1.egg-info/entry_points.txt
+[0.647s] writing requirements to ../../build/question1/question1.egg-info/requires.txt
+[0.647s] writing top-level names to ../../build/question1/question1.egg-info/top_level.txt
+[0.648s] reading manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+[0.648s] adding license file 'LICENSE'
+[0.649s] writing manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+[0.649s] running build
+[0.649s] running build_py
+[0.649s] copying question1/pong.py -> /home/archit/q1/build/question1/build/lib/question1
+[0.649s] running install
+[0.650s] running install_lib
+[0.650s] copying /home/archit/q1/build/question1/build/lib/question1/pong.py -> /home/archit/q1/install/question1/lib/python3.10/site-packages/question1
+[0.650s] byte-compiling /home/archit/q1/install/question1/lib/python3.10/site-packages/question1/pong.py to pong.cpython-310.pyc
+[0.651s] running install_data
+[0.651s] running install_egg_info
+[0.652s] removing '/home/archit/q1/install/question1/lib/python3.10/site-packages/question1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.653s] Copying ../../build/question1/question1.egg-info to /home/archit/q1/install/question1/lib/python3.10/site-packages/question1-0.0.0-py3.10.egg-info
+[0.654s] running install_scripts
+[0.669s] Installing pong_game_node script to /home/archit/q1/install/question1/lib/question1
+[0.670s] writing list of installed files to '/home/archit/q1/build/question1/install.log'
+[0.690s] Invoked command in '/home/archit/q1/src/question1' returned '0': PYTHONPATH=/home/archit/q1/build/question1/prefix_override:/home/archit/q1/install/question1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/question1 build --build-base /home/archit/q1/build/question1/build install --record /home/archit/q1/build/question1/install.log --single-version-externally-managed install_data

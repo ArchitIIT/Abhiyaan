@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/question1/question1.egg-info/PKG-INFO
+writing dependency_links to ../../build/question1/question1.egg-info/dependency_links.txt
+writing entry points to ../../build/question1/question1.egg-info/entry_points.txt
+writing requirements to ../../build/question1/question1.egg-info/requires.txt
+writing top-level names to ../../build/question1/question1.egg-info/top_level.txt
+reading manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/question1/question1.egg-info/SOURCES.txt'
+running build
+running build_py
+copying question1/pong.py -> /home/archit/q1/build/question1/build/lib/question1
+running install
+running install_lib
+copying /home/archit/q1/build/question1/build/lib/question1/pong.py -> /home/archit/q1/install/question1/lib/python3.10/site-packages/question1
+byte-compiling /home/archit/q1/install/question1/lib/python3.10/site-packages/question1/pong.py to pong.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/archit/q1/install/question1/lib/python3.10/site-packages/question1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/question1/question1.egg-info to /home/archit/q1/install/question1/lib/python3.10/site-packages/question1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pong_game_node script to /home/archit/q1/install/question1/lib/question1
+writing list of installed files to '/home/archit/q1/build/question1/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+pong_game_node = question1.pong:main
+
