@@ -24,6 +24,6 @@
 - DSA course on Udemy
 
 ## Other Relevant Information
-- Didn't disappear when Thanos snapped
-- Born at a very young age
-- Petted a cat once
+- 
+- 
+- 
