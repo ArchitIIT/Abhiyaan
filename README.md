@@ -14,7 +14,7 @@
   - CFI workplace is cool :)
   - Networking with like minded people 
   - Great opportunity to learn from the best
-  - 
+  - Coolest team with the most realistic ideas which can be used to solve real life problems
 
 ## Education
 ### Institute Courses
