@@ -1,8 +1,9 @@
 <!-- behavior_tree.xml -->
-<root main_tree_to_execute="MainTree">
-    <BehaviorTree ID="MainTree">
-        <Sequence name="main_sequence">
-            <Forward />
-        </Sequence>
-    </BehaviorTree>
+<root>
+    <Sequence name="main_sequence">
+        <Forward />
+        <Pass />
+        <Goal />
+    </Sequence>
 </root>
+
